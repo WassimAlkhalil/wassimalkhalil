@@ -7,7 +7,7 @@
 I'm Wassim Alkhalil, a Computer Science student at Hamburg University of Technology. My focus areas are mobile app development, software design, requirements, and application security. I enjoy learning various programming languages and frameworks, like Flutter, and I'm also interested in UI/UX design. Additionally, I'm fascinated by quantum computing and neural networks and constantly seek to expand my knowledge in these fields.
 
 
-- 📫 How to reach me **wassim.alkhalil@icloud.com**
+- ✉️ **wassim.alkhalil@icloud.com**
 
 </p>
   
