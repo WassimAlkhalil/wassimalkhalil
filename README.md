@@ -7,7 +7,7 @@ Mobile App Development and Application Security
 
 I'm Wassim Alkhalil, a Computer Science student at Hamburg University of Technology. My focus areas are mobile app development, software design, requirements, and application security. I enjoy learning various programming languages and frameworks, like Flutter, and I'm also interested in UI/UX design. Additionally, I'm fascinated by quantum computing and neural networks and constantly seek to expand my knowledge in these fields.
 
-Languages and Tools
+<h2 align="left">Languages and Tools</h2>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
