@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wassim Alkhalil</h1>
-<h3 align="center">Computer Science Student and Mobile App Developer</h3>
+<h3 align="center">Computer Science Student</h3>
 <p align="center">
 <a href="mailto:wassim.alkhalil@icloud.com"><button><i class="fa fa-envelope"></i> ✉️ contact me </button> </a>
 </p>
