@@ -3,9 +3,8 @@
 <p align="center">
 <a href="mailto:wassim.alkhalil@icloud.com"><button><i class="fa fa-envelope"></i> ✉️ contact me </button> </a>
 </p>
-Mobile App Development and Application Security
 
-I'm Wassim Alkhalil, a Computer Science student at Hamburg University of Technology. My focus areas are mobile app development, software design, requirements, and application security. I enjoy learning various programming languages and frameworks, like Flutter, and I'm also interested in UI/UX design. Additionally, I'm fascinated by quantum computing and neural networks and constantly seek to expand my knowledge in these fields.
+I'm Wassim Alkhalil, a Computer Science student at Hamburg University of Technology. My focus areas software design, requirements, and software security.
 
 <h2 align="left">Languages and Tools</h2>
 <p align="center">
