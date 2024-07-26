@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I'm currently pursuing my Computer Science degree at Hamburg University of Technology, with a keen interest in software design, requirements engineering, and software security.
 
-I am passionate about leveraging new technologies to develop practical solutions that solve real-world problems. My journey in software development has equipped me with proficiency in various programming languages and tools, including Python, C++, Dart, and more.
-
 <h3 align="left">Languages and Tools</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
